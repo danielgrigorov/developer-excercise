@@ -1,2 +1,2 @@
 # ShoppingTill
-Assignment from Cloudruid regarding a Software Engineer position
+Assignment from Cloudruid regarding a Software Developer position
